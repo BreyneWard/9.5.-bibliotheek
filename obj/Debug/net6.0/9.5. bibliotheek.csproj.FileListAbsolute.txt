@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\9.5. bibliotheek\bin\Debug\net6.0\9.5. bibliotheek.exe
+D:\multimedi\Cscherp\9.5. bibliotheek\bin\Debug\net6.0\9.5. bibliotheek.deps.json
+D:\multimedi\Cscherp\9.5. bibliotheek\bin\Debug\net6.0\9.5. bibliotheek.runtimeconfig.json
+D:\multimedi\Cscherp\9.5. bibliotheek\bin\Debug\net6.0\9.5. bibliotheek.dll
+D:\multimedi\Cscherp\9.5. bibliotheek\bin\Debug\net6.0\9.5. bibliotheek.pdb
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.AssemblyInfo.cs
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.dll
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\refint\9.5. bibliotheek.dll
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.pdb
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\9.5. bibliotheek.genruntimeconfig.cache
+D:\multimedi\Cscherp\9.5. bibliotheek\obj\Debug\net6.0\ref\9.5. bibliotheek.dll
